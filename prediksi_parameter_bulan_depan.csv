@@ -1,0 +1,13 @@
+Parameter,Kode,Prediksi,Batas Bawah 95%,Batas Atas 95%,Sigma Residual
+Transmission,Transmission,98.9642,98.9462,98.9822,0.0092
+Tin Content,Tin,19.0609,19.0107,19.1111,0.0256
+RI @ 25°C,RI,1.5099,1.5088,1.5111,0.0006
+SG @ 25°C,SG,1.1706,1.1695,1.1717,0.0005
+Acid Value,Acid,1.1404,1.138,1.1428,0.0012
+Sulfur,Sulfur,11.9475,11.9454,11.9495,0.001
+Water Content,Water,2.3511,2.3497,2.3525,0.0007
+Monomethyltin,Mono,23.6791,23.6779,23.6803,0.0006
+Yellowish Index,Yellow,7.9259,7.9247,7.9271,0.0006
+2-EH,EH,0.2401,0.2376,0.2426,0.0013
+Viscosity,Visco,57.6417,56.4961,58.7873,0.5845
+Pt-Co,PT,14.0664,13.0207,15.1122,0.5335

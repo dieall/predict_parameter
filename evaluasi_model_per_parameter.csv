@@ -1,0 +1,13 @@
+Parameter,Kode,MAE,RMSE,MAPE (%),R²,MAE Baseline,Lebih Baik?
+Transmission,Transmission,0.0173,0.0189,0.02,-1.6187,0.0317,Ya
+Tin Content,Tin,0.0447,0.0448,0.23,-108.0092,0.0232,Tidak
+RI @ 25°C,RI,0.0003,0.0003,0.02,-62.9305,0.0003,Tidak
+SG @ 25°C,SG,0.0005,0.0005,0.04,-0.1517,0.0006,Ya
+Acid Value,Acid,0.0564,0.0608,4.85,-185.5966,0.1061,Ya
+Sulfur,Sulfur,0.0538,0.0552,0.45,-11.0341,0.0275,Tidak
+Water Content,Water,0.107,0.11,4.69,-63.2601,0.1044,Tidak
+Monomethyltin,Mono,0.1695,0.172,0.72,-5.2287,0.1986,Ya
+Yellowish Index,Yellow,0.1386,0.1388,1.73,-3.5261,0.1236,Tidak
+2-EH,EH,0.0021,0.0021,0.86,-22.9919,0.003,Ya
+Viscosity,Visco,0.1114,0.1433,0.19,-1.7484,0.1919,Ya
+Pt-Co,PT,1.6837,1.7047,10.69,-30.7392,1.3598,Tidak
